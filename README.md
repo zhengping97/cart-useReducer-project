@@ -1,3 +1,9 @@
+## Screenshots
+<img width="593" alt="cart-usereducer-project (1)" src="https://user-images.githubusercontent.com/36413759/166887535-3f2aa865-44c3-47c3-bce4-bed053b834e7.png">
+<img width="594" alt="cart-usereducer-project (2)" src="https://user-images.githubusercontent.com/36413759/166887539-f1422fc9-0828-41d7-8ac2-33c90669251d.png">
+<img width="598" alt="cart-usereducer-project (3)" src="https://user-images.githubusercontent.com/36413759/166887544-9069de68-b55a-4700-b0a0-c3bf87261602.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
